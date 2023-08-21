@@ -1,5 +1,15 @@
 import logowhite from "./PAlogo.png";
 import GrantThorntonNew from "./company/GrantThorntonNew.png";
+import ArtifaeNew from "./company/ArtifaeNew.png";
+import PLNew from "./company/PLNew.png";
+import IITCNew from "./company/IITCNew.png";
+import droneNew from "./projects/droneNew.png";
+import DiaBeat from "./projects/DiaBeat.png";
+import stocki from "./projects/stocki.png";
+import dublinbus from "./dublin-bus-logo.png";
+import vedant from "./projects/vedant.png";
+import smart from "./smart contract.jpeg";
+
 import logoblack from "./PAlogo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
@@ -70,5 +80,14 @@ export {
   indra,
   echofy,
   metacrowd,
-  GrantThorntonNew
+  GrantThorntonNew,
+  ArtifaeNew,
+  IITCNew,
+  PLNew,
+  droneNew,
+  DiaBeat,
+  stocki,
+  dublinbus,
+  vedant,
+  smart
 };

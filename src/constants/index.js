@@ -19,7 +19,16 @@ import {
   solidity,
   iitcell,
   eim,
-  GrantThorntonNew
+  GrantThorntonNew,
+  ArtifaeNew,
+  PLNew,
+  IITCNew,
+  droneNew,
+  DiaBeat,
+  stocki,
+  dublinbus,
+  vedant,
+  smart
 
 } from "../assets";
 
@@ -91,7 +100,7 @@ const experiences = [
   },
   {
     title: "Trading Analyst Intern",
-    company_name: "PL India",
+    company_name: PLNew,
     icon: "src/assets/company/PLNew.png",
     iconBg: "#383E56",
     date: "July 2023 - September 2023",
@@ -104,7 +113,7 @@ const experiences = [
   },
   {
     title: "Data Analyst Intern",
-    company_name: "Artifae (Financial Consulting for US Capital) - Remote",
+    company_name: ArtifaeNew,
     icon: "src/assets/company/ArtifaeNew.png",
     iconBg: "#383E56",
     date: "Oct 2022 - Jan 2023",
@@ -116,7 +125,7 @@ const experiences = [
 },
 {
     title: "Co-Founder",
-    company_name: "IITC- Indraprastha IT Cell (P)Ltd - Digital Marketing Agency",
+    company_name: IITCNew,
     icon: 'src/assets/company/IITCNew.png',
     iconBg: "#383E56",
     date: "April 2020 - Sep 2022",
@@ -144,7 +153,7 @@ export const projects = [
       { name: "Cryptography", color: "text-green-500" },
       { name: "YAML", color: "text-purple-500" }
     ],
-    image: 'src/assets/projects/droneNew.png', // Placeholder: Update with correct image link
+    image: droneNew, // Placeholder: Update with correct image link
     source_code_link: "here" // Placeholder: Update with correct source code link
   },
   {
@@ -158,7 +167,7 @@ export const projects = [
       { name: "scikit-learn", color: "text-purple-500" },
       { name: "GPT API", color: "text-orange-500" }
     ],
-    image: 'src/assets/projects/stocki.png', // Placeholder: Update with correct image link
+    image: stocki, // Placeholder: Update with correct image link
     source_code_link: "here" // Placeholder: Update with correct source code link
   },
   {
@@ -177,7 +186,7 @@ export const projects = [
       { name: "Java Script", color: "text-pink-500" },
 
     ],
-    image: 'src/assets/projects/Diabeat.png', // Placeholder: Update with correct image link
+    image: DiaBeat, // Placeholder: Update with correct image link
     source_code_link: "here" // Placeholder: Update with correct source code link
   },
   {
@@ -187,7 +196,7 @@ export const projects = [
       { name: "C", color: "text-blue-500" },
       { name: "dijkstra algorithm", color: "text-green-500" }
     ],
-    image: "./src/assets/dublin-bus-logo.png",
+    image: dublinbus,
     source_code_link: "https://github.com/ParthAsthana/Dublin-Bus-Root-Finder"
   },
   {
@@ -199,7 +208,7 @@ export const projects = [
       { name: "Scikit-learn", color: "text-pink-500" }
 
     ],
-    image: "src/assets/projects/vedant.png",
+    image: vedant,
     source_code_link: "https://github.com/ParthAsthana/Vedant_Ai"
   },
   {
@@ -209,7 +218,7 @@ export const projects = [
       { name: "Blockchain", color: "text-green-500" },
       { name: "Ethereum Blockchain", color: "text-pink-500" }
     ],
-    image: "./src/assets/smart contract.jpeg",
+    image: smart,
     source_code_link: "https://github.com/ParthAsthana/Lottery-System-Smart--Contract"
   }
 ];
