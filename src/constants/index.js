@@ -100,8 +100,8 @@ const experiences = [
   },
   {
     title: "Trading Analyst Intern",
-    company_name: PLNew,
-    icon: "src/assets/company/PLNew.png",
+    company_name: "PL India",
+    icon: PLNew,
     iconBg: "#383E56",
     date: "July 2023 - September 2023",
     points: [
@@ -113,8 +113,8 @@ const experiences = [
   },
   {
     title: "Data Analyst Intern",
-    company_name: ArtifaeNew,
-    icon: "src/assets/company/ArtifaeNew.png",
+    company_name: "Artifae(Corporate Service Provider)",
+    icon: ArtifaeNew,
     iconBg: "#383E56",
     date: "Oct 2022 - Jan 2023",
     points: [
@@ -125,8 +125,8 @@ const experiences = [
 },
 {
     title: "Co-Founder",
-    company_name: IITCNew,
-    icon: 'src/assets/company/IITCNew.png',
+    company_name: "IITC - Indraprastha IT Cell",
+    icon: IITCNew,
     iconBg: "#383E56",
     date: "April 2020 - Sep 2022",
     points: [
