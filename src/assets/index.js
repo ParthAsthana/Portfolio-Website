@@ -1,4 +1,5 @@
 import logowhite from "./PAlogo.png";
+import GrantThorntonNew from "./company/GrantThorntonNew.png";
 import logoblack from "./PAlogo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
@@ -33,6 +34,8 @@ import indra from "./indra.png"
 import echofy from "./echofy.png"
 import metacrowd from "./metacrowd.png"
 
+
+
 export {
   logowhite,
   logoblack,
@@ -66,5 +69,6 @@ export {
 
   indra,
   echofy,
-  metacrowd
+  metacrowd,
+  GrantThorntonNew
 };

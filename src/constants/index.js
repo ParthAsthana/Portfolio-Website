@@ -18,7 +18,9 @@ import {
   aws,
   solidity,
   iitcell,
-  eim
+  eim,
+  GrantThorntonNew
+
 } from "../assets";
 
 export const navLinks = [
@@ -77,7 +79,7 @@ const experiences = [
   {
     title: "Summer Analyst Intern",
     company_name: "Grant Thornton India",
-    icon: "src/assets/company/GrantThorntonNew.png",
+    icon: GrantThorntonNew,
     iconBg: "#383E56",
     date: "May 2023 - July 2023",
     points: [
