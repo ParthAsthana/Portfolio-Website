@@ -4,7 +4,7 @@ import ArtifaeNew from "./company/ArtifaeNew.png";
 import PLNew from "./company/PLNew.png";
 import IITCNew from "./company/IITCNew.png";
 import droneNew from "./projects/droneNew.png";
-import DiaBeat from "./projects/DiaBeat.png";
+import DiaBeat from "./projects/Diabeat.png";
 import stocki from "./projects/stocki.png";
 import dublinbus from "./dublin-bus-logo.png";
 import vedant from "./projects/vedant.png";
