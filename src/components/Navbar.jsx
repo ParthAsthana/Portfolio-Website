@@ -49,7 +49,7 @@ const Navbar = () => {
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>
             <li className='text-white text-[18px] font-medium cursor-pointer'>
-              <a href='/public/Parth_Asthana_New_resume.pdf' download>Download Resume</a>
+              <a href='https://drive.google.com/file/d/1dpqnuoI0YxfapOJ88zjSBxVddijXSIER/view' download>Download Resume</a>
             </li>
           {navLinks.map((nav) => (
             <li
