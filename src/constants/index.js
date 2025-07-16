@@ -87,7 +87,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Software Engineering Intern",
+    title: "Data Science Intern",
     company_name: "Arista Networks",
     icon: AristaLogo,
     iconBg: "#383E56",
