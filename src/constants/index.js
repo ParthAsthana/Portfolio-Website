@@ -23,6 +23,7 @@ import {
   ArtifaeNew,
   PLNew,
   IITCNew,
+  AristaLogo,
   droneNew,
   DiaBeat,
   stocki,
@@ -85,6 +86,20 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "Software Engineering Intern",
+    company_name: "Arista Networks",
+    icon: AristaLogo,
+    iconBg: "#383E56",
+    date: "January 2024 - August 2024",
+    points: [
+      "Contributed to the SmartAID chatbot project by implementing the Gemini model, enhancing conversational AI interactions.",
+      "Conducted A/B testing to evaluate and select the most effective ML strategies, based on detailed performance metrics.",
+      "Supported CI/CD pipeline development with ArgoCD and GitHub Actions for streamlined deployments.",
+      "Enhanced accuracy using NLP techniques, focusing on vector chunking and dynamic tokenization for efficient data parsing.",
+      "Analysed user interactions, enabling context size adjustments that boosted daily interactions from 10 to 150 prompts."
+    ]
+  },
   {
     title: "Summer Analyst Intern",
     company_name: "Grant Thornton India",

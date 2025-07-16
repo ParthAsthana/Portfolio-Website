@@ -3,6 +3,7 @@ import GrantThorntonNew from "./company/GrantThorntonNew.png";
 import ArtifaeNew from "./company/ArtifaeNew.png";
 import PLNew from "./company/PLNew.png";
 import IITCNew from "./company/IITCNew.png";
+import AristaLogo from "./company/AristaLogo.png";
 import droneNew from "./projects/droneNew.png";
 import DiaBeat from "./projects/Diabeat.png";
 import stocki from "./projects/stocki.png";
@@ -84,6 +85,7 @@ export {
   ArtifaeNew,
   IITCNew,
   PLNew,
+  AristaLogo,
   droneNew,
   DiaBeat,
   stocki,
